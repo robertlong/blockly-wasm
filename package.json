@@ -6,8 +6,8 @@
   "scripts": {
     "start": "webpack-dev-server"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Robert Long",
+  "license": "MIT",
   "dependencies": {
     "assemblyscript": "github:AssemblyScript/assemblyscript",
     "google-closure-library": "^20190513.0.0",
