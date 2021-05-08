@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "assemblyscript": "github:AssemblyScript/assemblyscript",
-    "google-closure-library": "^20190513.0.0",
+    "google-closure-library": "^20200315.0.0",
     "pxt-blockly": "^2.0.3"
   },
   "devDependencies": {
